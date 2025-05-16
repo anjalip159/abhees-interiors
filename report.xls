@@ -1,0 +1,4 @@
+			PROJRCT NAME :ABHEES INTERIORS               CREATED BY: ANJALI          CREATED DATE :15/05/2025														
+TEST CASE ID 	MODULE	TESTCASE DESCRIPTION	TEST STEPS	PR-CONDITION 	TEST DATA	EXPECTED RESULT	  ACTUAL RESULT 	STATUS									
+TS_AB_001	Home  page	To verify the URL	Enter  the correct URL	Ensure the network connectivity	https://abheesinteriors.com/	The URL should be valid	The URL should be valid	PASS									
+TS_AB_002	Home  page	To checking if the facebook link in header work.	1.open the link 2. click on the header section of a website's home page.3.lick the facebook link.	1.Ensure the network connectivity 2.													
