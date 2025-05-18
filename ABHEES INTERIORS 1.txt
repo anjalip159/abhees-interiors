@@ -1,0 +1,27 @@
+	PROJRCT NAME :ABHEES INTERIORS               CREATED BY: ANJALI          CREATED DATE :15/05/2025							
+TEST CASE ID 	MODULE	TESTCASE DESCRIPTION	TEST STEPS	PR-CONDITION 	TEST DATA	EXPECTED RESULT	  ACTUAL RESULT 	STATUS
+TS_AB_001	Home  page	To verify the URL	Enter  the correct URL	1.Ensure the network connectivity 2.sytem name:lenovo 3.	https://abheesinteriors.com/	The URL should be valid	The URL should be valid	PASS
+TS_AB_002	Home  page	To check if the facebook link in header is working.	1.open the link 2. click on the header section of a website's home page.3.lick the facebook link.	1.Ensure the network connectivity 2.confirm the browser open successfully.	Nill	The face book link should be working properly.	The facebook link is not working.	FAILED
+TS_AB_003	Home  page	To check if the twitter  link in header is working.	1.open the link 2. click on the header section of a website's home page.3.lick the twitter link.	1.Ensure the network connectivity 2.confirm the browser open successfully.	Nill	The twitter link should be  working properly.	The twitter link is not working .	FAILED
+TS_AB_004	Home  page	T0 check th linked In  link header is working.	1.Open the link 2.click on the header section of a website's home page. 3.click the linked In link.	1.Ensure the network connectivity 2.confirm the browser open successfully.	Nill	The linked In link should be  working properly.	The linked In link is  not working .	FAILED
+TS_AB_005	Home  page	T0 check the instagram  link header is working.	1.Open the link 2.click on the header section of a website's home page. 3.click the instagram link.	1.Ensure the network connectivity 2.confirm the browser open successfully.	Nill	The instagram link should be  working properly.	The instagram link is not working.	fAILED
+TS_AB_006	Home  page	To check the you tube link header is working.	1.Open the link 2.click on the header section of a website's home page. 3.click the you tube  link.	1.Ensure the network connectivity 2.confirm the browser open successfully.	Nill	The you tube link should be  working properly.	The you tube link is not working.	fAILED
+TS_AB_007	Home  page	To check  if the about button is working or not.	1.Open the link 2.click on the header section of a website's home page. 3.click the about button.	1.Ensure the network connectivity 2.confirm the browser open successfully.	Nill	The about button should be  working properly.	The about button is not working	FAILED
+TS_AB_008	Home  page	To  check if the contact button is working or not.	1.Open the link 2.click on the header section of a website's home page. 3.click the contact button.	1.Ensure the network connectivity 2.confirm the browser open successfully.	Nill	 the  contact button should   working properly.	The contact button is not working.only the loading screen is desplayed.	FAILED
+TS_AB_009	Home  page	To   check if the learn more button is working or not.	1.Open the link 2.click on the header section of a website's home page. 3.click the learn more  button.  	1.Ensure the network connectivity 2.confirm the browser open successfully.	Nill	The learn more button should be working properly.	The learn more button is not working.	FAILED
+TS_AB_010	Home page	To check if the navigation buttons on both sides working or not.	1.Open the link 2.click on the header section of a website's home page. 3.click on the navigation   buttons on both side.	1.Ensure the network connectivity 2.confirm the browser open successfully.	Nill	The navigation buttons on both sides should be working properly.	The navigation buttons on bothe sides are working properly.	PASS
+TS_AB_011	Home page	To check if the bottom navigation button is working or not.	1.Open the link 2.click on the header section of a website's home page. 3.click on the bottom navigation button.  	1.Ensure the network connectivity 2.confirm the browser open successfully.	Nill	The bottom navigation button should be working  properly.	The  bottom navigation buttons  is  working properly.	PASS
+TS_AB_012	Home page	To check if the  cross-os   is working or not.	Enter  the correct URL	"1.Ensure the network connectivity 2.sytem name:lenovo 3. browser name:chrome,microsoft edge."	https://abheesinteriors.com/	The cross-os should be working  properly. 	The cross-os working properly.	PASS
+TS_AB_013	Home page							
+TS_AB_014								
+TS_AB_015								
+TS_AB_016								
+TS_AB_017								
+TS_AB_018								
+TS_AB_019								
+TS_AB_020								
+TS_AB_021								
+TS_AB_022								
+TS_AB_023								
+TS_AB_024								
+TS_AB_025								
